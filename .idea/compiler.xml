@@ -10,6 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="xuecheng-plus-base.main" target="1.8" />
+      <module name="xuecheng-plus-base.test" target="1.8" />
       <module name="xuecheng-plus-parent.main" target="1.8" />
       <module name="xuecheng-plus-parent.test" target="1.8" />
       <module name="xuecheng-plus-parent1" target="1.8" />
