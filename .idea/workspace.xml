@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18d9b81e-80c5-40da-ab39-fc290308d256" name="Changes" comment="111">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/xuecheng-plus-base/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/src/main/java/com/xuecheng/XuechengPlusParentApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuecheng-plus-parent/src/test/java/com/xuecheng/XuechengPlusParentApplicationTests.java" beforeDir="false" />
-    </list>
+    <list default="true" id="18d9b81e-80c5-40da-ab39-fc290308d256" name="Changes" comment="parent+base" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +74,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -158,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1715496945976</updated>
       <workItem from="1715496947108" duration="7007000" />
-      <workItem from="1715515508906" duration="1983000" />
+      <workItem from="1715515508906" duration="2550000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <option name="closed" value="true" />
@@ -200,7 +186,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715505377418</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="parent+base">
+      <option name="closed" value="true" />
+      <created>1715518088273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715518088274</updated>
+    </task>
+    <task id="LOCAL-00007" summary="parent+base">
+      <option name="closed" value="true" />
+      <created>1715518232778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715518232778</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +210,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="111" />
-    <option name="LAST_COMMIT_MESSAGE" value="111" />
+    <MESSAGE value="parent+base" />
+    <option name="LAST_COMMIT_MESSAGE" value="parent+base" />
   </component>
 </project>
