@@ -13,6 +13,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="F:/apache-maven-3.8.6/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
+          <entry name="F:/apache-maven-3.8.6/repository/org/projectlombok/lombok/1.18.8/lombok-1.18.8.jar" />
         </processorPath>
         <module name="xuecheng-plus-base" />
       </profile>
