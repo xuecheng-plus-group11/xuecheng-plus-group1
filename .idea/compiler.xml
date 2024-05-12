@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="xuecheng-plus-parent" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="xuecheng-plus-base" target="1.8" />
       <module name="xuecheng-plus-base.main" target="1.8" />
       <module name="xuecheng-plus-base.test" target="1.8" />
       <module name="xuecheng-plus-parent.main" target="1.8" />
